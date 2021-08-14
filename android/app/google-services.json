@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "785454064247",
+    "project_id": "aqua-fan",
+    "storage_bucket": "aqua-fan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785454064247:android:df48228a35f302b3d1dc72",
+        "android_client_info": {
+          "package_name": "vn.com.aquavietnam.aquafan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785454064247-n2vfmd67agofvnrna638asleoe1kjnnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.com.aquavietnam.aquafan",
+            "certificate_hash": "4cade0e7a5d45ca86a9dbbd6ebe5798dd0d38ee8"
+          }
+        },
+        {
+          "client_id": "785454064247-o4ndetevsqu4a5f6klaq0f5fvhbbbaqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD72W8IWnxxzFNRw7HsKsXr1OFwzqENjtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785454064247-o4ndetevsqu4a5f6klaq0f5fvhbbbaqh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785454064247-1ad4hfdnaqqd8p9pu47avtbu7kk2nbml.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.com.aquavietnam.aquafan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
